@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 </head>
 <body dir="rtl">
 
@@ -111,13 +113,105 @@
   <!-- Container for demo purpose -->
 
 <section class="">
-  <h1 class=" self-end text-5xl font-semibold m-8">الخدمات الرئيسية</h1>
+  <h1 class=" self-end text-3xl font-semibold m-8">الخدمات الرئيسية</h1>
 
+  <div class=" grid grid-rows-2 grid-cols-4">
+  <div class=" grid row-span-1 col-span-4 grid-rows-1 grid-cols-4">
+
+
+
+  <div class=" col-span-1 bg-white drop-shadow-2xl text-center m-10 p-10 rounded-lg" >
+       <div class=" flex items-center justify-center text-white bg-sky-700 rounded-full w-16 h-16 m-auto"><span class="material-symbols-outlined">
+    power
+    </span></div>
+       <p class=" text-xl mt-4">   كهرباء  </p>
+  </div>
+
+  <div class=" col-span-1 bg-white drop-shadow-2xl text-center m-10 p-10 rounded-lg" >
+       <div class=" flex items-center justify-center text-white bg-sky-700 rounded-full w-16 h-16 m-auto">
+       <span class="material-symbols-outlined">
+      water_drop
+      </span></div>
+             <p class=" text-xl mt-4">   سباكة </p>
+  </div>
+
+  <div class=" col-span-1 bg-white drop-shadow-2xl text-center m-10 p-10 rounded-lg" >
+       <div class=" flex items-center justify-center text-white bg-sky-700 rounded-full w-16 h-16 m-auto">
+       <span class="material-symbols-outlined">
+    carpenter
+    </span></div>
+             <p class=" text-xl mt-4">   نجارة و أثاث </p>
+  </div>
+
+
+  <div class=" col-span-1 bg-white drop-shadow-2xl text-center m-10 p-10 rounded-lg" >
+       <div class=" flex items-center justify-center text-white bg-sky-700 rounded-full w-16 h-16 m-auto ">
+       <span class="material-symbols-outlined">
+      format_paint
+      </span></div>
+             <p class=" text-xl mt-4">  طلاء </p>
+  </div>
+
+  </div>
+  <div class=" grid row-span-1 col-span-4 grid-rows-1 grid-cols-4">
+      
+  <div class=" col-span-1 bg-white drop-shadow-2xl text-center m-10 p-10 rounded-lg" >
+       <div class=" flex items-center justify-center text-white bg-sky-700 rounded-full w-16 h-16 m-auto ">
+       <span class="material-symbols-outlined">
+        view_module
+        </span></div>
+             <p class=" text-xl mt-4">  بلاط و سيراميك</p>
+  </div>
+
+
+  <div class=" col-span-1 bg-white drop-shadow-2xl text-center m-10 p-10 rounded-lg" >
+       <div class=" flex items-center justify-center text-white bg-sky-700 rounded-full w-16 h-16 m-auto ">
+       <span class="material-symbols-outlined">
+          tv_gen
+          </span></div>
+                       <p class=" text-xl mt-4"> أجهزة كهربائية </p>
+  </div>
+
+
+  <div class=" col-span-1 bg-white drop-shadow-2xl text-center m-10 p-10 rounded-lg" >
+       <div class=" flex items-center justify-center text-white bg-sky-700 rounded-full w-16 h-16 m-auto ">
+       <span class="material-symbols-outlined">
+          tv_gen
+          </span></div>
+                       <p class=" text-xl mt-4"> أجهزة كهربائية </p>
+  </div>
   
+  <div class=" col-span-1 bg-white drop-shadow-2xl text-center m-10 p-10 rounded-lg" >
+       <div class=" flex items-center justify-center text-white bg-sky-700 rounded-full w-16 h-16 m-auto ">
+       <span class="material-symbols-outlined">
+heat_pump
+</span></div>
+                       <p class=" text-xl mt-4"> تكييف   </p>
+  </div>
+
+  </div>
+
+
+
+
+  </div>
 </section>
 
+<section class="mt-24">
 
 
+<h1 class=" self-end text-3xl font-semibold m-8">   كيفية استخدام موقعنا؟  </h1>
+
+
+<div class="grid grid-rows-1 grid-cols-1 mt-10">
+
+
+</div>
+
+
+
+
+</section>
 
 
 
