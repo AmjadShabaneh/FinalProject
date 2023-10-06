@@ -203,8 +203,26 @@ heat_pump
 <h1 class=" self-end text-3xl font-semibold m-8">   كيفية استخدام موقعنا؟  </h1>
 
 
-<div class="grid grid-rows-1 grid-cols-1 mt-10">
+<div class="grid grid-rows-1 grid-cols-4 mt-10 p-16">
 
+  <div class=" col-span-1 drop-shadow-2xl bg-white p-6 rounded-lg m-4">
+    <h1 class=" text-2xl text-bold text-right">أنشئ حسابك أو سجل الدخول</h1>
+  <p class=" text-gray-600 text-right mt-10"> أذهب الى صفحة التسجيل في الموقع وأدخل المعلومات المطلوبة و ابدأ باستخدام خدماتنا  </p>
+  </div>
+
+
+  <div class=" col-span-1 drop-shadow-2xl bg-white p-6 rounded-lg m-4">
+    <h1 class=" text-2xl text-bold text-right">البحث عن العامل المناسب  </h1>
+  <p class=" text-gray-600 text-right mt-10"> هناك طريقتين للبحث عن العامل المناسب أولا من خلال إنشاء منشور للخدمة المطلوبة و الموافقة على طلب أو من خلال البحث اليدوي عن عامل متفرغ و التواصل معه </p>
+  </div>
+  <div class=" col-span-1 drop-shadow-2xl bg-white p-6 rounded-lg m-4">
+    <h1 class=" text-2xl text-bold text-right">  الاتفاق و بدأ العمل   </h1>
+  <p class=" text-gray-600 text-right mt-10"> قم بالاتفاق مع العامل بعد اختياره على تفاصيل الخدمة من مواعيد و المبلغ المتفق عليه  </p>
+  </div>
+  <div class=" col-span-1 drop-shadow-2xl bg-white p-6 rounded-lg m-4">
+    <h1 class=" text-2xl text-bold text-right">  مرحلة التقييم </h1>
+  <p class=" text-gray-600 text-right mt-10"> بعد إنهاء الخدمة قم بتقييم العامل على المنصة هذا يفيد كل المستخدمين الاخرين في اختياره في المستقبل ومن أجل مصداقية الموقع </p>
+  </div>
 
 </div>
 
