@@ -95,7 +95,7 @@
         <div class="text-center">
           <div
             class="mt-[-170px] block rounded-lg bg-[hsla(0,0%,100%,0.55)]  px-6 py-12 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] backdrop-blur-[30px] dark:bg-[hsla(0,0%,5%,0.55)] dark:shadow-black/20 md:py-16 md:px-12">
-            <h1 class="mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-6xl text-sky-700">
+            <h1 class="mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-6xl text-white">
              انشئ حسابك و قم باختيار امهر  <br /><span class="text-danger dark:text-danger-400">العاملين في مجال الصيانة و باسعار منافسة</span>
             </h1>
             <button
@@ -231,6 +231,49 @@ heat_pump
 
 </section>
 
+<footer class="w-full bg-white p-8">
+  <div class="flex flex-row flex-wrap items-center justify-center gap-y-6 gap-x-12 bg-white  md:justify-between">
+    
+    <ul class="flex flex-wrap items-center gap-y-2 gap-x-8">
+      <li>
+        <a
+          href="#"
+          class="block  text-base font-normal leading-relaxed text-blue-gray-900 antialiased text-center transition-colors hover:text-sky-700 focus:text-sky-700"
+        >
+          من نحن
+        </a>
+      </li>
+      <li>
+        <a
+          href="#"
+          class="block  text-base font-normal leading-relaxed text-blue-gray-900 antialiased text-center transition-colors hover:text-sky-700 focus:text-sky-700"
+        >
+          الترخيصات
+        </a>
+      </li>
+      <li>
+        <a
+          href="#"
+          class="block  text-base font-normal leading-relaxed text-blue-gray-900 antialiased text-center transition-colors hover:text-sky-700 focus:text-sky-700"
+        >
+          كلمة
+        </a>
+      </li>
+      <li>
+        <a
+          href="#"
+          class="block  text-base font-normal leading-relaxed text-blue-gray-900 antialiased text-center transition-colors hover:text-sky-700 focus:text-sky-700"
+        >
+          تواصل معنا
+        </a>
+      </li>
+    </ul>
+  </div>
+  <hr class="my-8 border-blue-gray-50" />
+  <p class="block text-center font-sans text-base font-normal leading-relaxed text-blue-gray-900 antialiased">
+    © 2023 Material Tailwind
+  </p>
+</footer>
 
 
 </body>
