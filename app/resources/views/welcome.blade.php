@@ -56,12 +56,14 @@
         >
           إنشاء حساب
         </button>
+        <a href="/login">
       <button
       class="middle none center mr-3 rounded-lg border border-sky-700 py-3 px-6 font-sans text-md font-bold uppercase text-sky-700 transition-all hover:opacity-75 focus:ring focus:ring-sky-400 active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
       data-ripple-dark="true"
     >
       تسجيل الدخول
     </button>
+  </a>
       <button
         class="middle none relative ml-auto h-6 max-h-[40px] w-6 max-w-[40px] rounded-lg text-center font-sans text-xs font-medium uppercase text-blue-gray-500 transition-all hover:bg-transparent focus:bg-transparent active:bg-transparent disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none lg:hidden"
         data-collapse-target="sticky-navar"
@@ -95,7 +97,7 @@
         <div class="text-center">
           <div
             class="mt-[-170px] block rounded-lg bg-[hsla(0,0%,100%,0.55)]  px-6 py-12 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] backdrop-blur-[30px] dark:bg-[hsla(0,0%,5%,0.55)] dark:shadow-black/20 md:py-16 md:px-12">
-            <h1 class="mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-6xl text-sky-700">
+            <h1 class="mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-6xl text-white">
              انشئ حسابك و قم باختيار امهر  <br /><span class="text-danger dark:text-danger-400">العاملين في مجال الصيانة و باسعار منافسة</span>
             </h1>
             <button
