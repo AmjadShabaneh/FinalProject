@@ -233,6 +233,49 @@ heat_pump
 
 </section>
 
+<footer class="w-full bg-white p-8">
+  <div class="flex flex-row flex-wrap items-center justify-center gap-y-6 gap-x-12 bg-white  md:justify-between">
+    
+    <ul class="flex flex-wrap items-center gap-y-2 gap-x-8">
+      <li>
+        <a
+          href="#"
+          class="block  text-base font-normal leading-relaxed text-blue-gray-900 antialiased text-center transition-colors hover:text-sky-700 focus:text-sky-700"
+        >
+          من نحن
+        </a>
+      </li>
+      <li>
+        <a
+          href="#"
+          class="block  text-base font-normal leading-relaxed text-blue-gray-900 antialiased text-center transition-colors hover:text-sky-700 focus:text-sky-700"
+        >
+          الترخيصات
+        </a>
+      </li>
+      <li>
+        <a
+          href="#"
+          class="block  text-base font-normal leading-relaxed text-blue-gray-900 antialiased text-center transition-colors hover:text-sky-700 focus:text-sky-700"
+        >
+          كلمة
+        </a>
+      </li>
+      <li>
+        <a
+          href="#"
+          class="block  text-base font-normal leading-relaxed text-blue-gray-900 antialiased text-center transition-colors hover:text-sky-700 focus:text-sky-700"
+        >
+          تواصل معنا
+        </a>
+      </li>
+    </ul>
+  </div>
+  <hr class="my-8 border-blue-gray-50" />
+  <p class="block text-center font-sans text-base font-normal leading-relaxed text-blue-gray-900 antialiased">
+    © 2023 Material Tailwind
+  </p>
+</footer>
 
 
 </body>
