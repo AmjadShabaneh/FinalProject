@@ -15,3 +15,4 @@ use App\Http\Controllers\RouteController;
 
 Route::get('/',[RouteController::class,"welcome"]);
 Route::get('/login',[RouteController::class,"login"]);
+Route::get("/search",[RouteController::class,"search"]);

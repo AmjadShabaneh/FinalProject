@@ -12,4 +12,7 @@ class RouteController extends Controller
     function login(){
         return view("login");
     }
+    function search(){
+        return view("search");
+    }
 }
