@@ -79,7 +79,7 @@
        
       </nav>
     
-      <div class="  rounded-lg shadow-lg bg-white mt-14 p-10 w-6/12 mx-auto ">
+      <div class="  rounded-lg border-4 border-sky-100 bg-white mt-14 p-10 w-6/12 mx-auto ">
 
 
 <h1 class=" text-3xl mb-6">  تصفح و ابحث عن العديد من الخدمات و العاملين  </h1>
@@ -90,8 +90,8 @@
 
 
 <div class=" inline-block">
-        <label for="countries" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">المدينة</label>
-<select id="countries" class="bg-gray-50  w-52 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-sky-500 focus:border-sky-500 block  p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-sky-500 dark:focus:border-sky-500">
+        <label for="countries" class="block mb-2 text-sm font-medium text-gray-900 ">المدينة</label>
+<select id="countries" class="bg-gray-50 w-44 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-sky-500 focus:border-sky-500 block  p-2.5 d">
   <option selected>اختر مدينة</option>
   <option value="US">United States</option>
   <option value="CA">Canada</option>
@@ -100,8 +100,8 @@
 </select>
 </div>
 <div class=" inline-block mr-10">
-<label for="countries" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">    نوع الخدمة  </label>
-<select id="countries" class="bg-gray-50 border w-52 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-sky-500 focus:border-sky-500 block  p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-sky-500 dark:focus:border-sky-500">
+<label for="countries" class="block mb-2 text-sm font-medium text-gray-900 ">    نوع الخدمة  </label>
+<select id="countries" class="bg-gray-50 border w-44 border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-sky-500 focus:border-sky-500 block  p-2.5  ">
   <option selected>اختر الخدمة</option>
   <option value="US">United States</option>
   <option value="CA">Canada</option>
@@ -109,9 +109,9 @@
   <option value="DE">Germany</option>
 </select>
 </div>
-<div class=" inline-block mr-10">
-<label  class=" block mb-2 text-sm font-medium text-gray-900 dark:text-white"> خانة البحث</label>
-<input type="search" class=" border-2 rounded-lg w-64 h-10 bg-gray-50  p-4 focus:outline-sky-700" name="search" >
+<div class=" inline-block mr-4">
+<label  class=" block mb-2 text-sm font-medium text-gray-900 "> خانة البحث</label>
+<input type="search" class=" border-2 rounded-lg w-56 h-10 bg-gray-50  p-4 focus:outline-sky-700" name="search" >
 
 
 </div>
@@ -126,6 +126,417 @@
 </button>
 </div>
       </div>
+
+
+
+<section class=" grid grid-cols-2">
+
+
+
+
+<div class=" bg-white w-10/12 shadow-2xl rounded-lg border-2 text-slate-500 p-4 pt-10 mr-10 mt-10 grid grid-cols-3 grid-rows-3 col-span-1">
+ <div class=" col-span-1  grid grid-cols-2 grid-rows-2 ">
+ <span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4  ">
+person
+</span>
+<div class=" col-span-1 ">
+  اسم الناشر
+</div>
+<div class="col-span-1">
+أمجد شبانة
+</div>
+ </div>
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+handyman
+</span>
+<div class="col-span-1">
+   الخدمة
+</div>
+<div class="col-span-1">
+   كهرباء
+</div>
+</div>
+
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4">
+location_on
+</span>
+<div class="col-span-1">
+  الموقع
+</div>
+<div class="col-span-1">
+   الخليل
+</div>
+</div>
+
+
+
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+  تاريخ النشر
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+موعد العمل
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+
+<button class=" col-span-1 bg-sky-700 text-white rounded p-1 text-sm h-10 w-20 mx-auto mt-6">تقديم عرض</button>
+</div>
+
+
+<div class=" bg-white w-10/12 shadow-2xl rounded-lg border-2 text-slate-500 p-4 pt-10 mr-10 mt-10 grid grid-cols-3 grid-rows-3 col-span-1">
+ <div class=" col-span-1  grid grid-cols-2 grid-rows-2 ">
+ <span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4  ">
+person
+</span>
+<div class=" col-span-1 ">
+  اسم الناشر
+</div>
+<div class="col-span-1">
+أمجد شبانة
+</div>
+ </div>
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+handyman
+</span>
+<div class="col-span-1">
+   الخدمة
+</div>
+<div class="col-span-1">
+   كهرباء
+</div>
+</div>
+
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4">
+location_on
+</span>
+<div class="col-span-1">
+  الموقع
+</div>
+<div class="col-span-1">
+   الخليل
+</div>
+</div>
+
+
+
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+  تاريخ النشر
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+موعد العمل
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+
+<button class=" col-span-1 bg-sky-700 text-white rounded p-1 text-sm h-10 w-20 mx-auto mt-6">تقديم عرض</button>
+</div>
+<div class=" bg-white w-10/12 shadow-2xl rounded-lg border-2 text-slate-500 p-4 pt-10 mr-10 mt-10 grid grid-cols-3 grid-rows-3 col-span-1">
+ <div class=" col-span-1  grid grid-cols-2 grid-rows-2 ">
+ <span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4  ">
+person
+</span>
+<div class=" col-span-1 ">
+  اسم الناشر
+</div>
+<div class="col-span-1">
+أمجد شبانة
+</div>
+ </div>
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+handyman
+</span>
+<div class="col-span-1">
+   الخدمة
+</div>
+<div class="col-span-1">
+   كهرباء
+</div>
+</div>
+
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4">
+location_on
+</span>
+<div class="col-span-1">
+  الموقع
+</div>
+<div class="col-span-1">
+   الخليل
+</div>
+</div>
+
+
+
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+  تاريخ النشر
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+موعد العمل
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+
+<button class=" col-span-1 bg-sky-700 text-white rounded p-1 text-sm h-10 w-20 mx-auto mt-6">تقديم عرض</button>
+</div>
+<div class=" bg-white w-10/12 shadow-2xl rounded-lg border-2 text-slate-500 p-4 pt-10 mr-10 mt-10 grid grid-cols-3 grid-rows-3 col-span-1">
+ <div class=" col-span-1  grid grid-cols-2 grid-rows-2 ">
+ <span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4  ">
+person
+</span>
+<div class=" col-span-1 ">
+  اسم الناشر
+</div>
+<div class="col-span-1">
+أمجد شبانة
+</div>
+ </div>
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+handyman
+</span>
+<div class="col-span-1">
+   الخدمة
+</div>
+<div class="col-span-1">
+   كهرباء
+</div>
+</div>
+
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4">
+location_on
+</span>
+<div class="col-span-1">
+  الموقع
+</div>
+<div class="col-span-1">
+   الخليل
+</div>
+</div>
+
+
+
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+  تاريخ النشر
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+موعد العمل
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+
+<button class=" col-span-1 bg-sky-700 text-white rounded p-1 text-sm h-10 w-20 mx-auto mt-6">تقديم عرض</button>
+</div>
+<div class=" bg-white w-10/12 shadow-2xl rounded-lg border-2 text-slate-500 p-4 pt-10 mr-10 mt-10 grid grid-cols-3 grid-rows-3 col-span-1">
+ <div class=" col-span-1  grid grid-cols-2 grid-rows-2 ">
+ <span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4  ">
+person
+</span>
+<div class=" col-span-1 ">
+  اسم الناشر
+</div>
+<div class="col-span-1">
+أمجد شبانة
+</div>
+ </div>
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+handyman
+</span>
+<div class="col-span-1">
+   الخدمة
+</div>
+<div class="col-span-1">
+   كهرباء
+</div>
+</div>
+
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4">
+location_on
+</span>
+<div class="col-span-1">
+  الموقع
+</div>
+<div class="col-span-1">
+   الخليل
+</div>
+</div>
+
+
+
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+  تاريخ النشر
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+موعد العمل
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+
+<button class=" col-span-1 bg-sky-700 text-white rounded p-1 text-sm h-10 w-20 mx-auto mt-6">تقديم عرض</button>
+</div>
+<div class=" bg-white w-10/12 shadow-2xl rounded-lg border-2 text-slate-500 p-4 pt-10 mr-10 mt-10 grid grid-cols-3 grid-rows-3 col-span-1">
+ <div class=" col-span-1  grid grid-cols-2 grid-rows-2 ">
+ <span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4  ">
+person
+</span>
+<div class=" col-span-1 ">
+  اسم الناشر
+</div>
+<div class="col-span-1">
+أمجد شبانة
+</div>
+ </div>
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+handyman
+</span>
+<div class="col-span-1">
+   الخدمة
+</div>
+<div class="col-span-1">
+   كهرباء
+</div>
+</div>
+
+<div class=" col-span-1  grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4">
+location_on
+</span>
+<div class="col-span-1">
+  الموقع
+</div>
+<div class="col-span-1">
+   الخليل
+</div>
+</div>
+
+
+
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+  تاريخ النشر
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+<div class=" col-span-1 mt-3 grid grid-cols-2 grid-rows-2">
+<span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4 ">
+schedule
+</span>
+<div class=" col-span-1 ">
+موعد العمل
+</div>
+
+<div class="col-span-1  ">
+  27/1/2004
+</div>
+</div>
+
+<button class=" col-span-1 bg-sky-700 text-white rounded p-1 text-sm h-10 w-20 mx-auto mt-6">تقديم عرض</button>
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+
 
 </body>
 </html>
