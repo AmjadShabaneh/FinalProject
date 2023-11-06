@@ -15,4 +15,7 @@ class RouteController extends Controller
     function search(){
         return view("search");
     }
+    function profile(){
+        return view("profile");
+    }
 }

@@ -89,14 +89,14 @@
    
   </nav>
  
-  <div class="container my-24 mx-auto md:px-6">
+  <div class="container mt-0 mx-auto md:px-6">
     <!-- Section: Design Block -->
     <section class="mb-32">
       <div class="relative overflow-hidden bg-cover bg-no-repeat bg-[50%] bg-[url('https://img.freepik.com/free-photo/part-male-construction-worker_329181-3734.jpg?w=1380&t=st=1695915615~exp=1695916215~hmac=f40588bc05ec84a3efeaeaf2aa5e9af748ae3d2f0f47e18a47f67cc63d4838f0')] h-[500px]"></div>
       <div class="container mx-auto px-6 md:px-12 xl:px-32">
         <div class="text-center">
           <div
-            class="mt-[-170px] block rounded-lg bg-[hsla(0,0%,100%,0.55)]  px-6 py-12 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] backdrop-blur-[30px] dark:bg-[hsla(0,0%,5%,0.55)] dark:shadow-black/20 md:py-16 md:px-12">
+            class="mt-[-270px] block rounded-lg bg-[hsla(0,0%,100%,0.55)]  px-6 py-12 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] backdrop-blur-[30px] dark:bg-[hsla(0,0%,5%,0.55)] dark:shadow-black/20 md:py-16 md:px-12">
             <h1 class="mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-6xl text-white">
              انشئ حسابك و قم باختيار امهر  <br /><span class="text-danger dark:text-danger-400">العاملين في مجال الصيانة و باسعار منافسة</span>
             </h1>
