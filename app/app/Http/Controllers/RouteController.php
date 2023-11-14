@@ -18,4 +18,7 @@ class RouteController extends Controller
     function profile(){
         return view("profile");
     }
+    function portfoilo(){
+        return view("portfoilo");
+    }
 }

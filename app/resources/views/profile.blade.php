@@ -74,7 +74,7 @@
         </span>
       </button>
     </div>
-    
+    </div>
    
   </nav>
 
@@ -103,14 +103,15 @@ person
   
 التفاصيل
 </div>
-<div class="text-2xl border-b-4  text-gray-400  -mb-1 w-6/12  -mr-2  p-2 text-center inline-block">
+<a href="/portfoilo">
+<div class="text-2xl border-b-4  text-gray-400  -mb-1 w-6/12  -mr-2  p-2 text-center inline-block hover:border-sky-400 hover:text-sky-400 transition-all duration-1000">
 
 
 الأعمال المنجزة
 
 
 </div>
-
+</a>
 <div>
 
 </div>
@@ -137,7 +138,7 @@ person
 </div>
 
 <div class=" mt-24 grid grid-rows-1 grid-cols-2 mr-[16rem] text-center mb-10">
-  <div class=" shadow-lg  col-span-1 w-2/5 p-5">
+  <div class=" shadow-xl  col-span-1 w-2/5 p-5">
     <div class="rounded-full h-24 w-24 bg-sky-200 mx-auto text-sky-700 text-center">
     <span class="material-symbols-outlined text-4xl mt-7">
 call
@@ -151,7 +152,7 @@ call
     </div>
   </div>
 
-  <div class=" shadow-lg  col-span-1 w-2/5 p-5 ">
+  <div class=" shadow-xl col-span-1 w-2/5 p-5 ">
     <div class="rounded-full h-24 w-24 bg-sky-200 mx-auto text-sky-700 text-center">
     <span class="material-symbols-outlined text-4xl mt-7">
     mail

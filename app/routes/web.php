@@ -17,3 +17,4 @@ Route::get('/',[RouteController::class,"welcome"]);
 Route::get('/login',[RouteController::class,"login"]);
 Route::get("/search",[RouteController::class,"search"]);
 Route::get("/profile",[RouteController::class,"profile"]);
+Route::get("/portfoilo",[RouteController::class,"portfoilo"]);

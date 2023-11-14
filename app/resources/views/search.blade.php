@@ -135,6 +135,7 @@
 
 
 <div class=" bg-white w-10/12 shadow-2xl rounded-lg border-2 text-slate-500 p-4 pt-10 mr-10 mt-10 grid grid-cols-3 grid-rows-3 col-span-1">
+  
  <div class=" col-span-1  grid grid-cols-2 grid-rows-2 ">
  <span class="material-symbols-outlined row-span-2 col-span-1 text-4xl ml-4  ">
 person
