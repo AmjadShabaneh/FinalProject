@@ -21,4 +21,10 @@ class RouteController extends Controller
     function portfoilo(){
         return view("portfoilo");
     }
+    function account(){
+        return view("account");
+    }
+    function passwordpage(){
+        return view("passwordpage");
+    }
 }
