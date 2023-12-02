@@ -20,3 +20,4 @@ Route::get("/profile",[RouteController::class,"profile"]);
 Route::get("/portfoilo",[RouteController::class,"portfoilo"]);
 Route::get("/account",[RouteController::class,"account"]);
 Route::get("/passwordpage",[RouteController::class,"passwordpage"]);
+Route::get("/order",[RouteController::class,"order"]);

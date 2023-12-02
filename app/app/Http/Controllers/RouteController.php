@@ -27,4 +27,7 @@ class RouteController extends Controller
     function passwordpage(){
         return view("passwordpage");
     }
+    function order(){
+        return view("order");
+    }
 }
